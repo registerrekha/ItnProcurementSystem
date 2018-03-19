@@ -1,0 +1,5 @@
+C:\ItnProcurementSystem\ProcurementSystem\Itn.MasterDataServices.Models\bin\Release\Itn.MasterDataServices.Models.dll
+C:\ItnProcurementSystem\ProcurementSystem\Itn.MasterDataServices.Models\bin\Release\Itn.MasterDataServices.Models.pdb
+C:\ItnProcurementSystem\ProcurementSystem\Itn.MasterDataServices.Models\obj\Release\Itn.MasterDataServices.Models.csproj.CoreCompileInputs.cache
+C:\ItnProcurementSystem\ProcurementSystem\Itn.MasterDataServices.Models\obj\Release\Itn.MasterDataServices.Models.dll
+C:\ItnProcurementSystem\ProcurementSystem\Itn.MasterDataServices.Models\obj\Release\Itn.MasterDataServices.Models.pdb

@@ -1,0 +1,113 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+#searchinput {
+    width: 200px;
+}
+
+#searchclear {
+    position: absolute;
+    right: 5px;
+    top: 0;
+    bottom: 0;
+    height: 14px;
+    margin: auto;
+    font-size: 14px;
+    cursor: pointer;
+    color: #ccc;
+}
+
+header, nav, section {
+    display: block;
+}
+
+.footercs {
+    position:absolute;
+    bottom:0;
+    width:100%;
+    height:60px;   /* Height of the footer */
+    background:#6cf;
+}
+
+
+.searchWrapper {
+    width: 95%;
+    margin: 20px auto;
+}
+
+.searchWrapper fieldset {
+    border: 1px solid #ccc;
+    border-radius: 10px 10px 10px 10px;
+    padding: 0 0 0 1.4em;
+    text-align: center;
+}
+
+.searchWrapper legend {
+    -moz-box-shadow: 0 0 2px #978f6c;
+    -webkit-box-shadow: 0 0 2px #978f6c;
+    padding: 5px 10px;
+    border-radius: 10px 10px 10px 10px;
+    background-color: #A2A47B;
+    color: #000;
+    text-align: left;
+    font-size: 14px;
+}
+
+.searchWrapper ul {
+    width: 650px;
+    margin: 0px auto 20px auto;
+    padding: 0px;
+    font-size: 13px;
+}
+
+.searchWrapper label {
+    font-weight: bold;
+    width: 120px;
+    float: left;
+    text-align: right;
+    padding-right: 10px;
+    color: #000;
+    line-height: 30px;
+}
+
+.searchWrapper select,
+.searchWrapper input[type=text] {
+    font-weight: bold;
+    width: 150px;
+    display: table-cell;
+    vertical-align: top;
+   
+    text-align: left;
+}
+
+.searchWrapper input.fieldCode {
+    width: 430px;
+}
+
+.searchWrapper li {
+    padding: 15px 0;
+    margin: 10px auto;
+    width: 90%;
+}

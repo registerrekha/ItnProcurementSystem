@@ -1,0 +1,5 @@
+C:\ItnProcurementSystem\ProcurementSystem\Itn.Utilities\bin\Release\Itn.Utilities.dll
+C:\ItnProcurementSystem\ProcurementSystem\Itn.Utilities\bin\Release\Itn.Utilities.pdb
+C:\ItnProcurementSystem\ProcurementSystem\Itn.Utilities\obj\Release\Itn.Utilities.csproj.CoreCompileInputs.cache
+C:\ItnProcurementSystem\ProcurementSystem\Itn.Utilities\obj\Release\Itn.Utilities.dll
+C:\ItnProcurementSystem\ProcurementSystem\Itn.Utilities\obj\Release\Itn.Utilities.pdb

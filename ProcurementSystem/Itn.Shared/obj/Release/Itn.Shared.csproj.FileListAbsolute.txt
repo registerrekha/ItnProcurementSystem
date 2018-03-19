@@ -1,0 +1,5 @@
+C:\ItnProcurementSystem\ProcurementSystem\Itn.Shared\bin\Release\Itn.Shared.dll
+C:\ItnProcurementSystem\ProcurementSystem\Itn.Shared\bin\Release\Itn.Shared.pdb
+C:\ItnProcurementSystem\ProcurementSystem\Itn.Shared\obj\Release\Itn.Shared.csproj.CoreCompileInputs.cache
+C:\ItnProcurementSystem\ProcurementSystem\Itn.Shared\obj\Release\Itn.Shared.dll
+C:\ItnProcurementSystem\ProcurementSystem\Itn.Shared\obj\Release\Itn.Shared.pdb

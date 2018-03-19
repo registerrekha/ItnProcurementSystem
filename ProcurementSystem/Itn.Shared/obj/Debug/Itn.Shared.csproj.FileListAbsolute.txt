@@ -1,0 +1,13 @@
+C:\ItnProcurementSystem\ProcurementSystem\Itn.Shared\bin\Debug\Itn.Shared.dll.config
+C:\ItnProcurementSystem\ProcurementSystem\Itn.Shared\bin\Debug\Itn.Shared.dll
+C:\ItnProcurementSystem\ProcurementSystem\Itn.Shared\bin\Debug\Itn.Shared.pdb
+C:\ItnProcurementSystem\ProcurementSystem\Itn.Shared\bin\Debug\Itn.Utilities.dll
+C:\ItnProcurementSystem\ProcurementSystem\Itn.Shared\bin\Debug\Newtonsoft.Json.dll
+C:\ItnProcurementSystem\ProcurementSystem\Itn.Shared\bin\Debug\Itn.Utilities.pdb
+C:\ItnProcurementSystem\ProcurementSystem\Itn.Shared\bin\Debug\Itn.Utilities.dll.config
+C:\ItnProcurementSystem\ProcurementSystem\Itn.Shared\bin\Debug\Newtonsoft.Json.xml
+C:\ItnProcurementSystem\ProcurementSystem\Itn.Shared\obj\Debug\Itn.Shared.csprojResolveAssemblyReference.cache
+C:\ItnProcurementSystem\ProcurementSystem\Itn.Shared\obj\Debug\Itn.Shared.csproj.CoreCompileInputs.cache
+C:\ItnProcurementSystem\ProcurementSystem\Itn.Shared\obj\Debug\Itn.Shared.csproj.CopyComplete
+C:\ItnProcurementSystem\ProcurementSystem\Itn.Shared\obj\Debug\Itn.Shared.dll
+C:\ItnProcurementSystem\ProcurementSystem\Itn.Shared\obj\Debug\Itn.Shared.pdb

@@ -1,0 +1,6 @@
+C:\ItnProcurementSystem\ProcurementSystem\Itn.OMS.Services.Models\bin\Debug\Itn.OMS.Services.Models.dll
+C:\ItnProcurementSystem\ProcurementSystem\Itn.OMS.Services.Models\bin\Debug\Itn.OMS.Services.Models.pdb
+C:\ItnProcurementSystem\ProcurementSystem\Itn.OMS.Services.Models\obj\Debug\Itn.OMS.Services.Models.csproj.CoreCompileInputs.cache
+C:\ItnProcurementSystem\ProcurementSystem\Itn.OMS.Services.Models\obj\Debug\Itn.OMS.Services.Models.dll
+C:\ItnProcurementSystem\ProcurementSystem\Itn.OMS.Services.Models\obj\Debug\Itn.OMS.Services.Models.pdb
+C:\ItnProcurementSystem\ProcurementSystem\Itn.OMS.Services.Models\obj\Debug\Itn.OMS.Services.Models.csprojResolveAssemblyReference.cache

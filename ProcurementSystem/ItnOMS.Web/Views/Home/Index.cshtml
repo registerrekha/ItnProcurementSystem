@@ -1,0 +1,15 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="row">
+    <br/>
+    <div class="col-md-4">
+        <ul class="list-group">
+            <li class="list-group-item"> @Html.ActionLink("Create Order", "Create", "Order") </li>
+            <li class="list-group-item"> @Html.ActionLink("Fulfill Orders", "FulfillList", "Order") </li>
+            <li class="list-group-item"> @Html.ActionLink("View Orders", "Review", "Order") </li>
+        </ul>
+
+    </div>
+</div>

@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OMS Web</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+    @Scripts.Render("~/Content/Scripts/lib/jquery-1.10.2.js")
+    @Scripts.Render("~/Content/Scripts/lib/jquery.unobtrusive-ajax.js") 
+    @*@Scripts.Render("~/Content/Scripts/lib/jquery.validate.unobtrusive.js")*@
+    @Scripts.Render("~/bundles/bootstrap")
+    @Scripts.Render("~/Content/Scripts/lib/angularJS/angular.js")
+    @Scripts.Render("~/Content/Scripts/app/helper.js")
+    @RenderSection("scripts", false)
+</head>
+@*<body ng-app="omsapp">*@
+<body>
+    @Html.Partial("_Header")
+    <div class="container body-content">
+        @RenderBody()
+    </div>
+    @Html.Partial("_footer")
+</body>
+</html>

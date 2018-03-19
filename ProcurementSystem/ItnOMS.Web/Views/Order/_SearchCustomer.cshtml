@@ -1,0 +1,39 @@
+﻿
+<fieldset>
+    <legend>Search </legend>
+    @using (Ajax.BeginForm("Search", "Order", null, new AjaxOptions() { UpdateTargetId = "tableRefresh", HttpMethod = "Post" }, null))
+    {
+        <table>
+            <tr>
+                <td><label for="postatus">PO Status</label></td>
+                <td>
+                    <div class="dropdown">
+                        <select  class="dropdown-menu" name="status">
+                            <option value="Open">Open</option>
+                            <option value="Closed">Closed</option>
+                            <option value="Invoiced">Invoiced</option>
+                        </select>
+                    </div>
+                </td>
+            </tr>
+            <tr></tr>
+            <tr>
+                <td>
+                    <label for="email">Email</label>
+
+                </td>
+                <td>
+                    <input type="text" value="" class="fieldCode" id="emailaddress" name="emailaddress" placeholder="Enter customer email" />
+
+                </td>
+            </tr>
+            <tr>
+                <td colspan="=2">
+                    <input type="reset" value="Reset" class="btn btn-primary" />
+                    <input type="submit" value="Search" class="submit btn btn-primary" id="Search" />
+                </td>
+            </tr>
+        </table>
+
+    }
+</fieldset>

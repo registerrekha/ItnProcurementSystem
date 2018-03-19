@@ -1,0 +1,17 @@
+C:\ItnProcurementSystem\ProcurementSystem\Itn.MasterDataServices.Manager\bin\Release\Itn.MasterDataServices.Manager.dll
+C:\ItnProcurementSystem\ProcurementSystem\Itn.MasterDataServices.Manager\bin\Release\Itn.MasterDataServices.Manager.pdb
+C:\ItnProcurementSystem\ProcurementSystem\Itn.MasterDataServices.Manager\bin\Release\Itn.MasterDataServices.DAL.dll
+C:\ItnProcurementSystem\ProcurementSystem\Itn.MasterDataServices.Manager\bin\Release\Itn.MasterDataServices.Models.dll
+C:\ItnProcurementSystem\ProcurementSystem\Itn.MasterDataServices.Manager\bin\Release\Itn.Shared.dll
+C:\ItnProcurementSystem\ProcurementSystem\Itn.MasterDataServices.Manager\bin\Release\StructureMap.dll
+C:\ItnProcurementSystem\ProcurementSystem\Itn.MasterDataServices.Manager\bin\Release\Itn.Utilities.dll
+C:\ItnProcurementSystem\ProcurementSystem\Itn.MasterDataServices.Manager\bin\Release\Itn.MasterDataServices.DAL.pdb
+C:\ItnProcurementSystem\ProcurementSystem\Itn.MasterDataServices.Manager\bin\Release\Itn.MasterDataServices.Models.pdb
+C:\ItnProcurementSystem\ProcurementSystem\Itn.MasterDataServices.Manager\bin\Release\Itn.Shared.pdb
+C:\ItnProcurementSystem\ProcurementSystem\Itn.MasterDataServices.Manager\bin\Release\StructureMap.xml
+C:\ItnProcurementSystem\ProcurementSystem\Itn.MasterDataServices.Manager\bin\Release\Itn.Utilities.pdb
+C:\ItnProcurementSystem\ProcurementSystem\Itn.MasterDataServices.Manager\obj\Release\Itn.MasterDataServices.Manager.csprojResolveAssemblyReference.cache
+C:\ItnProcurementSystem\ProcurementSystem\Itn.MasterDataServices.Manager\obj\Release\Itn.MasterDataServices.Manager.csproj.CoreCompileInputs.cache
+C:\ItnProcurementSystem\ProcurementSystem\Itn.MasterDataServices.Manager\obj\Release\Itn.MasterDataServices.Manager.csproj.CopyComplete
+C:\ItnProcurementSystem\ProcurementSystem\Itn.MasterDataServices.Manager\obj\Release\Itn.MasterDataServices.Manager.dll
+C:\ItnProcurementSystem\ProcurementSystem\Itn.MasterDataServices.Manager\obj\Release\Itn.MasterDataServices.Manager.pdb
