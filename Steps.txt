@@ -1,0 +1,15 @@
+1. Download from github
+2. Restore .bak file in your sql server
+3. Delete .vs folder in the solution
+3. Build the source code
+4. Right click on the solution -> properties and run multiple projects
+   Itn.MasterServices
+   Itn.Messaging.Services
+   Itn.OMS.Services
+   ItnOMS.Web
+
+5. Update web.config and appConfig. remove SQLExpress and put your database server name
+  
+
+6. There are no validations. included unit tests as much as I could.
+
